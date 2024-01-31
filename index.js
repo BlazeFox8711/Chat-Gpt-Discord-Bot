@@ -16,7 +16,7 @@ const client = new Client({
         parse: ['users','roles','everyone']
     },
     presence: {
-        activities: [{name: `/help | Raiden ChatBot`, type: 0}],
+        activities: [{name: `Nxus AI`, type: 0}],
         status: "idle"
     },
 });
